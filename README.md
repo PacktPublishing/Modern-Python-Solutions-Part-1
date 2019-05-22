@@ -26,7 +26,7 @@ Python 3.5
 ## Related Products
 * [Part 1: AWS Certified Solutions Architect (and CD,SO) [Video]](https://www.packtpub.com/virtualization-and-cloud/part-1-aws-certified-solutions-architect-and-cdso-video?utm_source=github&utm_medium=repository&utm_campaign=9781838824396)
 
-* [Part 1: AWS Certified Solutions Architect (and CD,SO) [Video]](https://www.packtpub.com/virtualization-and-cloud/part-1-aws-certified-solutions-architect-and-cdso-video?utm_source=github&utm_medium=repository&utm_campaign=9781838824396)
+* [Getting Productive with Modern Python [Video]](https://prod.packtpub.com/in/application-development/getting-productive-modern-python-video)
 
 * [Architecting Azure Solutions for PaaS [Video]](https://www.packtpub.com/virtualization-and-cloud/architecting-azure-solutions-paas-video?utm_source=github&utm_medium=repository&utm_campaign=9781838554286)
 
